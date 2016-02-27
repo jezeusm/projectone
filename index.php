@@ -1,9 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<title>Project One</title>
-	</head>
-	<body>
-		<h1>Welcome to Project One!</h1>
-	</body>
-</html>
+<?php require_once('includes/required.php'); ?>
+
+<?php require('layouts/head.php'); ?>
+
+<!-- add something here -->		
+<?php require('layouts/test.php'); ?>
+
+
+<?php require('layouts/footer.php'); ?>
