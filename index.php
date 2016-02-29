@@ -1,4 +1,4 @@
-<?php require_once('includes/required.php'); ?>
+<?php require_once('core/init.php'); ?>
 
 <?php require('layouts/head.php'); ?>
 

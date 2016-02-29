@@ -3,7 +3,7 @@
 	<div class="register-layout-wrapper">
 		<div class="col-md-12">
 			<h2 class="text-center">Register</h2>
-			<form class="form" method="post">
+			<form class="form" method="post" action="register.php">
 				<div class="form-group col-md-12">
 					<label for="username"><i class="fa fa-user"></i>&nbsp;Username</label>
 					<input type="text" class="form-control col-md-12" name="username" id="username" required placeholder="Username">

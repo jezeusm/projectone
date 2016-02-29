@@ -2,6 +2,11 @@
 <div class="col-md-8">
 	<h1 class="text-center">Welcome to project one!</h1>
 	<p class="text-center">This project focuses on web browser development.</p>
+    <p class="text-center">
+        <?php 
+            Dbmanager::getInstance()
+        ?>
+    </p>
 	<br>
 	<div class="col-md-12 text-center">
 		<div class="col-md-1"></div>
